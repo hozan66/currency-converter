@@ -45,7 +45,11 @@ GET https://v6.exchangerate-api.com/v6/YOUR-API-KEY/latest/CURRENCY
 
 ![p1](https://github.com/hozan66/currency-converter/assets/57224535/e2f2c2eb-8f3b-40dc-95ea-06b61b1d07e2)
 
+
+
 ![p2](https://github.com/hozan66/currency-converter/assets/57224535/08f99b3f-50ee-423e-b9ea-bb31fcd59510)
+
+
 
 ![p3](https://github.com/hozan66/currency-converter/assets/57224535/8b8f5afe-86fe-4240-8188-49c8a8905888)
 
@@ -55,7 +59,7 @@ GET https://v6.exchangerate-api.com/v6/YOUR-API-KEY/latest/CURRENCY
 
 ## How to run the application
 
-Folloe this step-by-step guide:
+Follow this step-by-step guide:
 
 1. **Prerequisites**
    - Make sure you have Flutter and Dart installed on your machine. You can refer to the official Flutter installation guide for instructions on setting up Flutter: [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install).
@@ -108,8 +112,8 @@ Folloe this step-by-step guide:
 
 The aplication contain two dropdown lists in which the user can determine the base currency probably what he has in hand, the second is the target in which he wants to know.
 
-There is an input text field which correspond to the base currency  choice, another text field is in the bottom  that corrispond to the target currency and the input number in the first text field.
+There is an input text field which correspond to the base currency  choice, another text field is in the bottom  that correspond to the target currency and the input number in the first text field.
 
 The conversion happen simultaneously, so any change in the base text field will cause the conversion to happen.
 
-Fetching the data from API happen when first opening the app and after that with each change in the base currency.
+Fetching the data from API happens when first opening the app and after that with each change in the base currency.
